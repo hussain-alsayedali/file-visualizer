@@ -1,0 +1,10 @@
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Release\fileVisualizer.exe.config
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Release\fileVisualizer.exe
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Release\fileVisualizer.pdb
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.csproj.AssemblyReference.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.Form1.resources
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.Properties.Resources.resources
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.csproj.GenerateResource.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.exe
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Release\fileVisualizer.pdb

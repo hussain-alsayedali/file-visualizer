@@ -1,0 +1,10 @@
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Debug\fileVisualizer.exe.config
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Debug\fileVisualizer.exe
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\bin\Debug\fileVisualizer.pdb
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.csproj.AssemblyReference.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.Form1.resources
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.Properties.Resources.resources
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.csproj.GenerateResource.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.exe
+C:\Users\Hussain\Desktop\HW2 SWE 316\fileVisualizer\fileVisualizer\obj\Debug\fileVisualizer.pdb
